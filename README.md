@@ -1,4 +1,4 @@
-# Money-Laundering-Prediction Model Building
+# Money-Laundering-Prediction-Model-Building
 This project focuses on building a model for detecting suspicious transaction that might indicate money laundering cases in Malaysia
 
 in this study, the SAML-D dataset(https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml), that contains approximately 9.5 million transaction records, will be utilised.
